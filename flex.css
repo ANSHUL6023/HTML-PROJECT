@@ -1,0 +1,94 @@
+.container{
+    border: 2px solid;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}
+#one{
+    text-decoration: underline;
+    margin: 15px;
+    font-weight: 100;
+    display: inline;
+}
+#two{
+    text-decoration: underline;
+    margin: 15px;
+    font-weight: 100;
+    display: inline;
+}
+#three{
+    text-decoration: underline;
+    margin: 15px;
+    font-weight: 100;
+    display: inline;
+}
+#four{
+    text-decoration: underline;
+    margin: 15px;
+    font-weight: 100;
+    display: inline;
+}
+#five{
+    text-decoration: underline;
+    margin: 15px;
+    font-weight: 100;
+    display: inline;
+}
+#back{
+margin: 10px;
+border-radius: 2px;
+}
+#next{
+    margin: 10px;
+    border-radius: 2px;
+    display: inline-block;
+    }
+
+    .stretch{
+        background-color: white;
+        display: flex;  
+    }
+    #str{
+        background-color: green;
+        color: white;
+        margin-top: 7px;
+        height: 25px;
+        width: 64px;
+    }
+
+.shadow{
+    background-color: white;
+        display: flex;  
+}
+#Sha{
+    background-color: green;
+        color: white;
+        margin-top: 7px;
+        height: 25px;
+        width: 64px;
+        box-shadow: 2px 2px rgb(169, 168, 168);
+}
+
+.MPT{
+    display: flex;
+    justify-content: stretch;
+}
+#num1{
+    background-color: green;
+    color: white;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+#num2{
+    background-color: green;
+    color: white;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+#num3{
+    background-color: green;
+    color: white;
+    margin-top: 7px;
+    margin-left: 5px;
+}
